@@ -157,3 +157,14 @@ pydantic==2.7.1
 chromadb==0.4.24
 sentence-transformers==2.7.0
 ollama==0.1.84 # Ensure the correct Ollama SDK version
+
+Install Ollama: Follow the instructions on the Ollama website for your operating system.
+
+Pull the Mistral Model: Open your terminal and run the following command to download the required LLM model:
+ollama pull mistral
+
+It is highly recommended to use a virtual environment.
+git clone https://github.com/YOUR_USERNAME/AmbedkarGPT-Intern-Task.git
+cd AmbedkarGPT-Intern-Task
+Install python dependencies
+pip install -r requirements.txt
