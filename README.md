@@ -163,8 +163,5 @@ Install Ollama: Follow the instructions on the Ollama website for your operating
 Pull the Mistral Model: Open your terminal and run the following command to download the required LLM model:
 ollama pull mistral
 
-It is highly recommended to use a virtual environment.
-git clone https://github.com/YOUR_USERNAME/AmbedkarGPT-Intern-Task.git
-cd AmbedkarGPT-Intern-Task
 Install python dependencies
 pip install -r requirements.txt
